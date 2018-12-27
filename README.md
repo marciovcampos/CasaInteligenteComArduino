@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/marciovcampos/CasaInteligenteComArduino/blob/master/public/intro.png"/>
+<img align="right" src="https://github.com/marciovcampos/CasaInteligenteComArduino/blob/master/intro.png"/>
 
 Casa Inteligente Com Arduino
 =====================
